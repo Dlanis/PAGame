@@ -1,0 +1,21 @@
+{
+  "window_title": "PAGame" /*Window title*/,
+  "window_minimum_size": [
+    128,
+    96
+  ] /*Minimum window size*/,
+  "window_default_size": [
+    640,
+    480
+  ] /*Default window size*/,
+  "window_flags": 4 /*Window creation flags*/,
+  "resources_dirs": [
+    "./assets"
+  ] /*Assets directories in priority order*/,
+  "max_delta_time": 0.1 /*Maximum game delta time*/,
+  "max_fps": 300 /*Maximum FPS*/,
+  "game_resolution": [
+    640,
+    480
+  ] /*Game internal resolution*/
+}
