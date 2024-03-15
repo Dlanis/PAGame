@@ -1,0 +1,9 @@
+[wrap-file]
+directory = glm-1.0.1
+lead_directory_missing = glm-1.0.1
+
+source_url = https://github.com/g-truc/glm/releases/download/1.0.1/glm-1.0.1-light.zip
+source_filename = glm-1.0.1.zip
+source_hash = 9a995de4da09723bd33ef194e6b79818950e5a8f2e154792f02e4615277cfb8d
+
+patch_directory = glm

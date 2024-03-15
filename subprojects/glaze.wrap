@@ -1,0 +1,8 @@
+[wrap-file]
+directory = glaze-2.1.8
+
+source_url = https://github.com/stephenberry/glaze/archive/refs/tags/v2.1.8.tar.gz
+source_filename = glaze-2.1.8.tar.gz
+source_hash = 7f170511bb5825c02887a596225a66f5e34e102e522dfe86c8de477c68600b44
+
+patch_directory = glaze

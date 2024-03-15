@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"ccls.misc.compilationDatabaseDirectory": "build",
+		"mesonbuild.buildFolder": "build",
+		"clangd.arguments": [
+			"-header-insertion=never"
+		]
+	}
+}
